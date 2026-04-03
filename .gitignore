@@ -1,0 +1,19 @@
+# Folder lingkungan virtual (WAJIB)
+venv/
+env/
+bin/
+obj/
+
+# File temporer Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Hasil output program (Opsional, biar gak menuh-menuhin)
+huruf_udara.jpg
+*.log
+
+# Folder setting editor
+.vscode/
+.idea/
